@@ -1,0 +1,8 @@
+Terms to learn javascript:
+
+hook
+ternary operation
+? :
+&nbsp
+endpoints
+destructuring
