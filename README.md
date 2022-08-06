@@ -22,3 +22,17 @@ Dark/Light Mode
 
 Alan Ai: voice assistant. Can use your voice and use any of the previous features.
 
+Languages and features used in this web application:
+HTML
+CSS
+JAVASCRIPT
+TMDB API
+ALAN AI
+REACT
+MATERIAL UI
+REDUX TOOLKIT
+...
+AND MANY MORE
+
+
+Tutorial help from Javascript Mastery
